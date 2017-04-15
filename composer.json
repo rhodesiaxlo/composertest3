@@ -9,7 +9,7 @@
             "email": "rhodesiax.lo@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0",
     "require": {
         "php":">5.3.0",
         "toplan/phpsms": "~1.7"
